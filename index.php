@@ -1103,7 +1103,7 @@
                 <div class="about-copy">
                     <p>I am a passionate software engineer who enjoys transforming ideas into useful digital
                         experiences. My interests span software development, interface design, testing, and
-                        technology-driven problem solving.</p>
+                        technology driven problem solving.</p>
                     <p>Inspired by Sri Lanka's rich history and craftsmanship, this portfolio brings together ancient
                         stone, forest tones, and golden details with a modern digital identity.</p>
                     <p><strong style="color:#e1c27f;font-weight:500">My focus:</strong> creating thoughtful, reliable,
@@ -1207,6 +1207,7 @@
                             solutions.</p><a href="#contact">DISCUSS A PROJECT ↗</a>
                     </div>
                 </article>
+                
             </div>
         </div>
     </section>
@@ -1216,19 +1217,19 @@
             <h2 class="section-title">Let's create <span>something meaningful.</span></h2><img class="ornament"
                 src="images/assets/divider_lotus_thin.png" alt="Golden lotus divider">
             <p>Have an idea, collaboration, or opportunity in mind? Reach out and let's turn it into something real.</p>
-            <a class="btn" href="mailto:your.email@example.com"><img src="images/assets/button_contact_me.png"
+            <a class="btn" href="mailto:dgrashmithasahan02@gmail.com"><img src="images/assets/button_contact_me.png"
                     alt="">Email me ↗</a>
-            <div class="socials"><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"
+            <div class="socials"><a href="www.linkedin.com/in/sahan-rashmitha-140788283" target="_blank" rel="noreferrer"
                     aria-label="LinkedIn"><img src="images/assets/social_linkedin.png" alt="LinkedIn"></a><a
-                    href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub"><img
-                        src="images/assets/social_github.png" alt="GitHub"></a><a href="https://www.instagram.com/"
+                    href="https://github.com/Rush2002X" target="_blank" rel="noreferrer" aria-label="GitHub"><img
+                        src="images/assets/social_github.png" alt="GitHub"></a><a href="https://www.instagram.com/_sahan_rashmitha_/"
                     target="_blank" rel="noreferrer" aria-label="Instagram"><img
-                        src="images/assets/social_instagram.png" alt="Instagram"></a><a href="https://www.facebook.com/"
+                        src="images/assets/social_instagram.png" alt="Instagram"></a><a href="https://www.facebook.com/sahan.raahmitha"
                     target="_blank" rel="noreferrer" aria-label="Facebook"><img src="images/assets/social_facebook.png"
                         alt="Facebook"></a><a href="https://www.youtube.com/" target="_blank" rel="noreferrer"
                     aria-label="YouTube"><img src="images/assets/social_youtube.png" alt="YouTube"></a><a
-                    href="https://x.com/" target="_blank" rel="noreferrer" aria-label="X"><img
-                        src="images/assets/social_x.png" alt="X"></a><a href="mailto:your.email@example.com"
+                    href="https://x.com/SahanRash997" target="_blank" rel="noreferrer" aria-label="X"><img
+                        src="images/assets/social_x.png" alt="X"></a><a href="mailto:dgrashmithasahan02@gmail.com"
                     aria-label="Email"><img src="images/assets/social_email.png" alt="Email"></a></div>
         </div>
     </section>
